@@ -1,19 +1,32 @@
-# Variable Practice Assaignment
+//  #Variable Practice Assaignment
 
-## Strings
-1. var name = "Andy";
-1. var day = "Tuesday";
-1. var favColor = "green";
+// #Strings
+ var name = "Andy";
+ var day = "Tuesday";
+ var favColor = "green";
 // anything  that assigns content between "" or ''
 
-## Numbers
+// # numbers
 var monthsInYear = 12;
 var shoeSize = 13;
 var age = 28;
 // any number including decimals
 
-## Booleans
+// Boolean types
 var parent = true;
 var currentStudent = true;
 var employed = false;
 // any statements that result in true or false narratives
+
+// # reassaign values
+name = "Andrew"
+console.log(name);
+
+favColor = "lightGreen";
+console.log(favColor);
+
+age = 30
+console.log(age);
+
+employed = true;
+console.log(employed);
