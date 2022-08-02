@@ -10,4 +10,10 @@
 var monthsInYear = 12;
 var shoeSize = 13;
 var age = 28;
-// any number including decimals 
+// any number including decimals
+
+## Booleans
+var parent = true;
+var currentStudent = true;
+var employed = false;
+// any statements that result in true or false narratives
